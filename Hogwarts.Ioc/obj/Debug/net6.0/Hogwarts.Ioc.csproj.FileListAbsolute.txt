@@ -1,0 +1,14 @@
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\bin\Debug\net6.0\Hogwarts.Ioc.deps.json
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\bin\Debug\net6.0\Hogwarts.Ioc.runtimeconfig.json
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\bin\Debug\net6.0\Hogwarts.Ioc.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\bin\Debug\net6.0\Hogwarts.Ioc.pdb
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\Hogwarts.Ioc.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\Hogwarts.Ioc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\Hogwarts.Ioc.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\Hogwarts.Ioc.AssemblyInfo.cs
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\Hogwarts.Ioc.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\Hogwarts.Ioc.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\refint\Hogwarts.Ioc.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\Hogwarts.Ioc.pdb
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\Hogwarts.Ioc.genruntimeconfig.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.Ioc\obj\Debug\net6.0\ref\Hogwarts.Ioc.dll

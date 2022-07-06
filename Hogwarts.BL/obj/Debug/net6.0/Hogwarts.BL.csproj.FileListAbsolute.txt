@@ -1,0 +1,17 @@
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\bin\Debug\net6.0\Hogwarts.BL.deps.json
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\bin\Debug\net6.0\Hogwarts.BL.runtimeconfig.json
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\bin\Debug\net6.0\Hogwarts.BL.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\bin\Debug\net6.0\Hogwarts.BL.pdb
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\Hogwarts.BL.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\Hogwarts.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\Hogwarts.BL.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\Hogwarts.BL.AssemblyInfo.cs
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\Hogwarts.BL.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\Hogwarts.BL.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\refint\Hogwarts.BL.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\Hogwarts.BL.pdb
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\Hogwarts.BL.genruntimeconfig.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\ref\Hogwarts.BL.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\bin\Debug\net6.0\Hogwarts.DataAccess.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\bin\Debug\net6.0\Hogwarts.DataAccess.pdb
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.BL\obj\Debug\net6.0\Hogwarts.BL.csproj.CopyComplete

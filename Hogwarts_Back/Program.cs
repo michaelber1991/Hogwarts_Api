@@ -1,3 +1,8 @@
+using Hogwarts.BL.Services;
+using Hogwarts.BL.Services.Interfaces;
+using Hogwarts.DataAccess.Context;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -6,6 +11,9 @@ builder.Services.AddControllers();
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
+builder.Services.AddDbContext<HowartsContext>(options => options.UseSqlServer(builder.Configuration.GetConnectionString("Connection")));
+
+builder.Services.AddScoped<IAdmissionService, AdmissionService>();
 
 var app = builder.Build();
 

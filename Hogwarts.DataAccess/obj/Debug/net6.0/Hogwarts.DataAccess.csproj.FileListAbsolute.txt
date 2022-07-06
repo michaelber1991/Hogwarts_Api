@@ -1,0 +1,14 @@
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\bin\Debug\net6.0\Hogwarts.DataAccess.deps.json
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\bin\Debug\net6.0\Hogwarts.DataAccess.runtimeconfig.json
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\bin\Debug\net6.0\Hogwarts.DataAccess.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\bin\Debug\net6.0\Hogwarts.DataAccess.pdb
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\Hogwarts.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\Hogwarts.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\Hogwarts.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\Hogwarts.DataAccess.AssemblyInfo.cs
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\Hogwarts.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\Hogwarts.DataAccess.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\refint\Hogwarts.DataAccess.dll
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\Hogwarts.DataAccess.pdb
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\Hogwarts.DataAccess.genruntimeconfig.cache
+C:\Users\Michael\Documents\Michael\Proyectos\Hogwarts_Api\Hogwarts.DataAccess\obj\Debug\net6.0\ref\Hogwarts.DataAccess.dll

@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32526.322
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts_Back", "Hogwarts_Back\Hogwarts_Back.csproj", "{90DA5B90-8BEC-44BD-8C5E-9E2ACCE78688}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hogwarts_Back", "Hogwarts_Back\Hogwarts_Back.csproj", "{90DA5B90-8BEC-44BD-8C5E-9E2ACCE78688}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts.BL", "Hogwarts.BL\Hogwarts.BL.csproj", "{6C0C7BD5-A715-4DD5-BEB1-6E9B1B28DD8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts.DataAccess", "Hogwarts.DataAccess\Hogwarts.DataAccess.csproj", "{62124838-28F6-42C8-AB79-53EDA8827FAD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hogwarts.Ioc", "Hogwarts.Ioc\Hogwarts.Ioc.csproj", "{ED130ACA-32D5-4F99-8A98-994A6977DDEE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{90DA5B90-8BEC-44BD-8C5E-9E2ACCE78688}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90DA5B90-8BEC-44BD-8C5E-9E2ACCE78688}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90DA5B90-8BEC-44BD-8C5E-9E2ACCE78688}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C0C7BD5-A715-4DD5-BEB1-6E9B1B28DD8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C0C7BD5-A715-4DD5-BEB1-6E9B1B28DD8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C0C7BD5-A715-4DD5-BEB1-6E9B1B28DD8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C0C7BD5-A715-4DD5-BEB1-6E9B1B28DD8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62124838-28F6-42C8-AB79-53EDA8827FAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62124838-28F6-42C8-AB79-53EDA8827FAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62124838-28F6-42C8-AB79-53EDA8827FAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62124838-28F6-42C8-AB79-53EDA8827FAD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED130ACA-32D5-4F99-8A98-994A6977DDEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED130ACA-32D5-4F99-8A98-994A6977DDEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED130ACA-32D5-4F99-8A98-994A6977DDEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED130ACA-32D5-4F99-8A98-994A6977DDEE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
